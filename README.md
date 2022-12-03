@@ -1,6 +1,6 @@
 # olasores.github.io
 
-Setting up personal website 
+Setting up a personal website 
 
 
 Initial Design for Olasores-links: 
