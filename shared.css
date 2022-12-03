@@ -1,0 +1,22 @@
+body {
+    background-color: #144159;
+    color: white;
+    font-family: 'Roboto Condensed' sans-serif;
+    letter-spacing: 2px;
+}
+
+p {
+    text-align: center;
+}
+
+.profile-picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #45D42E;
+
+    margin-top: 10%;
+    height: auto;
+    max-width: 100px;
+    border-radius: 50%;
+}
