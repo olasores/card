@@ -4,6 +4,8 @@ body {
     font-family: 'Roboto Condensed' sans-serif;
     
     letter-spacing: 2px;
+    opacity: o;
+    filter: blur();
     transition: opacity 3s ease-in-out, filter 2s ease-in;
 }
 
