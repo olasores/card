@@ -4,7 +4,7 @@ body {
     font-family: 'Roboto Condensed' sans-serif;
     
     letter-spacing: 2px;
-
+    transition: opacity 3s ease-in-out, filter 2s ease-in;
 }
 
 .profile-picture {
